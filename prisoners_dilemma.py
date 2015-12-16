@@ -724,4 +724,5 @@ def play_tournament(num_players):
         print('player ' + str(player) , ': ' , 
                str(int(scores[player])/num_players) , ' points: ',
                team_names[player])
+    Mariah Bowman Dank Memes
     
